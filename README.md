@@ -23,7 +23,7 @@ The following should appear:
 
 Currently, iLCD only supports 1-bit Bitmap files, as it is intended to be used with b/w LCD's mainly. You are welcome to contribute and enhance iLCD.
 
-###Compiling
+###Compiling the source code
 
 You can compile the application for your system using the command Make. The application is called iLCD, and you will have to add the container directory to your path enviroment varible if you want it to be accessible from any directory.
 
